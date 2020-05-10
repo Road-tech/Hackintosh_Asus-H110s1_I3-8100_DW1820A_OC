@@ -67,15 +67,11 @@ Hackintosh for Asus-H110s1, I3-8100, DW1820A, using Opencore and Support macOS C
 ---
 # Performance/展示
 
-![image](https://github.com/Road00/Hackintosh_Asus-H110s1_QL2X_DW1820A_OC/blob/master/Figure/13EE6E89-9978-4196-BB65-22C892472BAA_1_105_c.jpeg?raw=true)
 ![image](https://github.com/Road00/Hackintosh_Asus-H110s1_QL2X_DW1820A_OC/blob/master/Figure/8CB768EC-7D4C-49EA-9FDE-12661C0B0B63_1_105_c.jpeg?raw=true)
-![image](https://github.com/Road00/Hackintosh_Asus-H110s1_QL2X_DW1820A_OC/blob/master/Figure/截屏2020-01-27下午4.12.45.png?raw=true)
 ![image](https://github.com/Road00/Hackintosh_Asus-H110s1_QL2X_DW1820A_OC/blob/master/Figure/截屏2020-01-27下午4.40.26.png?raw=true)
 ![image](https://github.com/Road00/Hackintosh_Asus-H110s1_QL2X_DW1820A_OC/blob/master/Figure/%E6%88%AA%E5%B1%8F2020-02-18%E4%B8%8B%E5%8D%886.58.19.png?raw=true)
 ![image](https://github.com/Road00/Hackintosh_Asus-H110s1_QL2X_DW1820A_OC/blob/master/Figure/截屏2020-01-27下午4.58.51.png?raw=true)
 ![image](https://github.com/Road00/Hackintosh_Asus-H110s1_QL2X_DW1820A_OC/blob/master/Figure/截屏2020-01-27下午4.54.32.png?raw=true)
-![image](https://github.com/Road00/Hackintosh_Asus-H110s1_QL2X_DW1820A_OC/blob/master/Figure/截屏2020-01-27下午5.00.46.png?raw=true)
-![image](https://github.com/Road00/Hackintosh_Asus-H110s1_QL2X_DW1820A_OC/blob/master/Figure/截屏2020-01-27下午5.01.24.png?raw=true)
 
 ---
 # Reference/参考
