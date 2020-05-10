@@ -20,7 +20,7 @@
 |  | Specifications / 型号 | Note / 备注 |
 |-------------------------|:---------------------------------:|:-------------------------------:|
 | Motherboard/主板: | Asus H110s1 | (mini STX) |
-| CPU/处理器: | QL2X | (7820HK modify from BGA to LGA) |
+| CPU/处理器: | I3-8100 |  |
 | CPU Cooler/散热器: | NOCTUA NH-L9i |  |
 | Hard Drive/硬盘: | Hikvision C2000pro 512gb |  |
 | RAM/内存: | JUHOR 16G DDR4 2666MHz X2 |  |
