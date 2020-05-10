@@ -1,5 +1,4 @@
-# Hackintosh_Asus-H110s1_I3-8100_DW1820A_OC
-Hackintosh for Asus-H110s1, I3-8100, DW1820A, using Opencore and Support macOS Catalina    
+# Hackintosh for Asus-H110s1, I3-8100, DW1820A, using Opencore and Support macOS Catalina    
 
 **使用EFI前请务必修改三码(SSN,UUID,ROM)**    
 **Please change three system codes (SSN,UUID,ROM) before using this EFI**   
