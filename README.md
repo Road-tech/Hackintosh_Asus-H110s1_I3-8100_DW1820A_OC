@@ -1,4 +1,4 @@
-# Hackintosh for Asus-H110s1, I3-8100, DW1820A, using Opencore and Support macOS Catalina    
+# Hackintosh for Asus-H110s1, I3-8100, DW1820A, using Opencore and Support macOS Catalina
 
 **使用EFI前请务必修改三码(SSN,UUID,ROM)**    
 **Please change three system codes (SSN,UUID,ROM) before using this EFI**   
@@ -17,20 +17,24 @@
 ---
 
 # Hardware/硬件
-|  | Specifications / 型号 | Note / 备注 |
-|-------------------------|:---------------------------------:|:-------------------------------:|
-| Motherboard/主板: | Asus H110s1 | (mini STX) |
-| CPU/处理器: | I3-8100 |  |
-| CPU Cooler/散热器: | NOCTUA NH-L9i |  |
-| Hard Drive/硬盘: | Hikvision C2000pro 512gb |  |
-| RAM/内存: | JUHOR 16G DDR4 2666MHz X2 |  |
-| Wireless Card/无线网卡: | BCM94350ZAE | (DW1820A) |
-| Tower Case/机箱: | SilverStone VT02 |  |
-| Power/电源: | 55/25mm 19v 120w DC power adapter |  |
-  
+
+|                     | Specifications / 型号               | Note / 备注  |
+| ------------------- |:---------------------------------:|:----------:|
+| Motherboard/主板:     | Asus H110s1                       | (mini STX) |
+| CPU/处理器:            | I3-8100                           |            |
+| CPU Cooler/散热器:     | NOCTUA NH-L9i                     |            |
+| Hard Drive/硬盘:      | Hikvision C2000pro 512gb          |            |
+| RAM/内存:             | JUHOR 16G DDR4 2666MHz X2         |            |
+| Wireless Card/无线网卡: | BCM94350ZAE                       | (DW1820A)  |
+| Tower Case/机箱:      | SilverStone VT02                  |            |
+| Power/电源:           | 55/25mm 19v 120w DC power adapter |            |
+
 ---
+
 # Functions/功能
+
 ### Work：
+
 - All HDMI ports (1080p)  
 - DP port (1080p)  
 - Audio output on HDMI  
@@ -42,16 +46,19 @@
 - Continuity  
 
 ### Not working:
+
 - Sleep  
 
 ### Not tested yet:
+
 - 4k display  
-  
+
 ---
 
 # BIOS setting/BIOS设定：
 
 ### Disable：
+
 - Fast Boot  
 - CFG Lock   
 - VT-d  
@@ -59,11 +66,13 @@
 - Intel SGX  
 
 ### Enable：
+
 - VT-x  
 - Above 4G decoding  
 - Hyper Threading  
 
 ---
+
 # Performance/展示
 
 ![image](https://github.com/Road00/Hackintosh_Asus-H110s1_QL2X_DW1820A_OC/blob/master/Figure/8CB768EC-7D4C-49EA-9FDE-12661C0B0B63_1_105_c.jpeg?raw=true)
@@ -72,6 +81,7 @@
 ![image](https://github.com/Road00/Hackintosh_Asus-H110s1_QL2X_DW1820A_OC/blob/master/Figure/截屏2020-01-27下午4.54.32.png?raw=true)
 
 ---
+
 # Reference/参考
 
 [精解OpenCore](https://blog.daliansky.net/OpenCore-BootLoader.html) - [黑果小兵的部落阁 ](https://blog.daliansky.net/)
