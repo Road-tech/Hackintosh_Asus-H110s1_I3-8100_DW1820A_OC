@@ -5,6 +5,20 @@
 
 ---
 
+2021-01-05 更新
+
+- Update Opencore to 0.7.5
+- Update LiLu to 1.5.8    
+- Update Whatevergreen to 1.5.5     
+- Update AppleALC to 1.6.7     
+- Update CPUFriend to 1.2.4    
+- Update VirtualSMC to 1.2.8
+- Update IntelMausi to 1.0.7
+- Add BlueToolFixup to fix bluetooth
+- Support to macOS Monterey 12.0.1
+
+---
+
 2020-04-17 更新：
 
 - Update LiLu to 1.4.3    
