@@ -5,6 +5,17 @@
 
 ---
 
+2021-01-15 更新
+
+- Update Opencore to 0.7.6
+- Support to macOS Monterey 12.1
+- 因为DW1820A无法在macOS Monterey 12.1运行，已经将DW1820A更换为BCM94360Z4
+- Add BlueToolFixup to support BCM94360Z4
+- Add BrcmBluetoothInjector.kext to support BCM94360Z4
+- remove DW1820A drives
+
+---
+
 2021-01-05 更新
 
 - Update Opencore to 0.7.5
