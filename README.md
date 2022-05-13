@@ -7,6 +7,16 @@
 
 2021-01-15 更新
 
+- Update Opencore to 0.8.0  
+- Update LiLu to 1.6.0    
+- Update Whatevergreen to 1.5.8     
+- Update AppleALC to 1.7.1  
+- Support to macOS Monterey 12.13.1
+
+---
+
+2021-01-15 更新
+
 - Update Opencore to 0.7.6
 - Support to macOS Monterey 12.1
 - 因为DW1820A无法在macOS Monterey 12.1运行，已经将DW1820A更换为BCM94360Z4
